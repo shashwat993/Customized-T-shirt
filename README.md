@@ -15,7 +15,7 @@ Technology used:
 4. BOSTSTRAP
 5. FIREBASE
 
-IMPORTANT FUNCNALITY OF PROJECT:
+**IMPORTANT FUNCNALITY OF PROJECT:**
 1. User can make customized t-shirt where user can add text on T-shirt also user can add image on their T-shirt.
 2. Each meme image is stored to Firebase database
 3. All detail of T-shirt is stored in firebase database in json formate like T-shirt color, meme image url,size of T-shirt, Text size, Text color,T-shirt Color and Text content
