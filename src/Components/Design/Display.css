@@ -1,0 +1,57 @@
+.img-tshirt {
+    position: relative;
+}
+
+
+.meme-text {
+    position: absolute;
+    top: 40%;
+    left: 25%;
+}
+
+.meme-text p {
+    color: #ffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 5px;
+    margin-bottom: 4px;
+}
+
+.lower-text {
+    margin-top: 4px;
+}
+
+.tshirt-color {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.upper-text{
+    margin-bottom: 0px;
+}
+
+.tshirt-color img {
+    width: 15%;
+    height: 15%;
+}
+
+.meme-text img {
+    max-width: 67%; 
+    max-height: 200px;
+    border: #ffff solid 8px;
+}
+
+/* Media Query for Mobile Devices */
+@media screen and (max-width: 480px) {
+    .meme-text {
+        left: 3%;
+    }
+}
+/* CSS for mobile devices */
+@media screen and (max-width: 580px) {
+    .meme-text img {
+        max-width: 33%;
+    }
+} 
+
