@@ -24,11 +24,14 @@ IMPORTANT FUNCNALITY OF PROJECT:
 ![image](https://github.com/shashwat993/Customized-T-shirt/assets/108952343/f8183cd3-b8c6-451c-8097-e1ab9ba0eb36)
 
 4. Website is full Responsive:
-   Webiste:
+   Web:
    ![image](https://github.com/shashwat993/Customized-T-shirt/assets/108952343/a4e25bfa-3c73-4a85-843f-06f63db6e88e)
 
+
    In Mobile Website:
-   ![image](https://github.com/shashwat993/Customized-T-shirt/assets/108952343/0bd2fe16-3dfe-474a-b077-e4288d1f6310)
+
+  ![image](https://github.com/shashwat993/Customized-T-shirt/assets/108952343/944c912f-b919-45d0-b42c-bb195ca586c6)
+
 
 
 
